@@ -21,13 +21,13 @@ Microsoft Server Management Studio can be found
 
 ## Imagery
 
-### Final Logical Data Model (PDM) ###
+### Final Logical Data Model (LDM) ###
 
-![finalLDM](DataModels\BEARFinalLDM.png)
+![finalLDM](/DataModels/BEARFinalLDM.png)
 
 ### Final Physical Data Model (PDM) ###
 
-![finalPDM](DataModels\BEARFinalPDM.png)
+![finalPDM](/DataModels/BEARFinalPDM.png)
 
 ## Roadmap
 
