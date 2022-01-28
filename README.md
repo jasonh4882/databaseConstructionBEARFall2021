@@ -5,6 +5,8 @@
 This project was done as an end-of-term project for CSCI 44300 offered by Dr. John Gersting at IUPUI.
 The goal of the project was to design prototype database for a rental business; 
 Bike and Electric Auto Rental (BEAR) project.
+
+Information about the specific requirements and expected deliverables can be found in *Memos 0-4* located in the [memos folder](/Memos).
     
 ## Software
 
@@ -31,8 +33,8 @@ Microsoft Server Management Studio can be found
 
 ## Roadmap
 
-Since this was a coruse project that required access to a protected database 
-along with the use of liscensed data modeling software,
+Since this was a course project that required access to a protected database 
+along with the use of licensed data modeling software,
 there will not be any further work done on this project.
 
 ## Authors & Acknowledgments
